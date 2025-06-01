@@ -1,0 +1,2 @@
+# -Online-Learning-Platform-Dashboard-Coursera-Udemy-Inspired-Power-BI-Project
+I created an interactive Power BI dashboard that visualizes the performance and engagement on an online learning platform, inspired by Coursera and Udemy.  This dashboard helps track learner activity, course popularity, completion trends, and performance insights, turning raw e-learning data into actionable intelligence.
